@@ -1,4 +1,4 @@
-# Welcome to KanghwaSisters Club GitHub 👋
+## Welcome to KanghwaSisters Club GitHub 👋
 강화시스터즈 GitHub에 오신 것을 환영합니다!
 
 ## About US
@@ -6,9 +6,13 @@
 KanghwaSisters is Ewha Womans University's first on campus RL club and was started in March 2024.  
 
 📍 **Location** : Ewha Womans University, Seoul, South Korea  
+
 🏁 **Founded** : March 2024, by [@Jimin Lee](https://github.com/Tonnonssi)  
+
 📚 **Interested in ...** : `RL` , `DL`  
+
 👩‍💻 **Main Language** : <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
+
 🏠 **Club Page** : [https://kanghwasisters.github.io/](https://kanghwasisters.github.io/) lang : `kor`   
 
 
@@ -19,6 +23,6 @@ KanghwaSisters is Ewha Womans University's first on campus RL club and was start
 | May - July | Project : Minesweeper |  
 
 
---
+--  
 For More Information  
 📨 [tonnonssi@gmail.com](tonnonssi@gmail.com)
