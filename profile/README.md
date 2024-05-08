@@ -13,6 +13,8 @@ KanghwaSisters is Ewha Womans University's first on campus RL club and was start
 
 👩‍💻 **Main Language** : <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
 
+💻 **Main Develop Tool** : <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+
 🏠 **Club Page** : [https://kanghwasisters.github.io/](https://kanghwasisters.github.io/) lang : `kor`   
 
 
