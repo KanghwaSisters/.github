@@ -1,6 +1,7 @@
 ## Welcome to KanghwaSisters Club GitHub 👋
+### 강화시스터즈 GitHub에 오신 것을 환영합니다!
 ![image](https://github.com/user-attachments/assets/21ac6eca-cdf7-4c25-bdde-3633d7aa397c)
-강화시스터즈 GitHub에 오신 것을 환영합니다!
+
 
 ## About US
 강화시스터즈는 이화여자대학교 교내 최초 강화학습 동아리로 2024년 3월에 시작되었습니다.  
