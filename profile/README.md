@@ -1,4 +1,5 @@
 ## Welcome to KanghwaSisters Club GitHub 👋
+![image](https://github.com/user-attachments/assets/21ac6eca-cdf7-4c25-bdde-3633d7aa397c)
 강화시스터즈 GitHub에 오신 것을 환영합니다!
 
 ## About US
